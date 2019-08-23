@@ -17,62 +17,12 @@ endobj
 endobj
 4 0 obj
 <<
-/Contents 26 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 25 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Border [ 0 0 0 ] /Contents () /Dest [ 13 0 R /XYZ 68.69291 606.9843 0 ] /Rect [ 182.3829 144.0236 186.8309 156.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 5 0 obj
 <<
-/Contents 27 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 25 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
->>
-endobj
-6 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://www.nytimes.com/2019/08/22/us/ransomware-attacks-hacking.html)
->> /Border [ 0 0 0 ] /Rect [ 153.7323 593.7343 482.7323 605.7343 ] /Subtype /Link /Type /Annot
->>
-endobj
-7 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://www.msspalert.com/cybersecurity-breaches-and-attacks/ransomware/attack-list-cities-government-agencies/)
->> /Border [ 0 0 0 ] /Rect [ 87.25748 581.7343 599.0575 593.7343 ] /Subtype /Link /Type /Annot
->>
-endobj
-8 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://www.jdsupra.com/legalnews/ransomware-attacks-targeting-cities-and-60139/)
->> /Border [ 0 0 0 ] /Rect [ 153.7323 569.7343 524.9623 581.7343 ] /Subtype /Link /Type /Annot
->>
-endobj
-9 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://www.wired.com/story/ransomware-hits-georgia-courts-municipal-attacks-spread/)
->> /Border [ 0 0 0 ] /Rect [ 150.3375 557.7343 535.9775 569.7343 ] /Subtype /Link /Type /Annot
->>
-endobj
-10 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://www.cnbc.com/2019/08/22/texas-ransomware-attacks-tell-the-us-cybersecurity-story.html)
->> /Border [ 0 0 0 ] /Rect [ 130.0425 545.7343 556.2725 557.7343 ] /Subtype /Link /Type /Annot
->>
-endobj
-11 0 obj
-<<
-/Annots [ 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R ] /Contents 28 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 25 0 R /Resources <<
+/Annots [ 4 0 R ] /Contents 28 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 27 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -80,81 +30,141 @@ endobj
 >> /Type /Page
 >>
 endobj
+6 0 obj
+<<
+/Contents 29 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 27 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+7 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 5 0 R /XYZ 182.3829 158.0236 0 ] /Rect [ 68.69291 592.9843 74.25291 604.9843 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.nytimes.com/2019/08/22/us/ransomware-attacks-hacking.html)
+>> /Border [ 0 0 0 ] /Rect [ 153.7323 593.7343 482.7323 605.7343 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.msspalert.com/cybersecurity-breaches-and-attacks/ransomware/attack-list-cities-government-agencies/)
+>> /Border [ 0 0 0 ] /Rect [ 87.25748 581.7343 599.0575 593.7343 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.jdsupra.com/legalnews/ransomware-attacks-targeting-cities-and-60139/)
+>> /Border [ 0 0 0 ] /Rect [ 153.7323 569.7343 524.9623 581.7343 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.wired.com/story/ransomware-hits-georgia-courts-municipal-attacks-spread/)
+>> /Border [ 0 0 0 ] /Rect [ 150.3375 557.7343 535.9775 569.7343 ] /Subtype /Link /Type /Annot
+>>
+endobj
 12 0 obj
 <<
-/Outlines 14 0 R /PageLabels 29 0 R /PageMode /UseNone /Pages 25 0 R /Type /Catalog
+/A <<
+/S /URI /Type /Action /URI (https://www.cnbc.com/2019/08/22/texas-ransomware-attacks-tell-the-us-cybersecurity-story.html)
+>> /Border [ 0 0 0 ] /Rect [ 130.0425 545.7343 556.2725 557.7343 ] /Subtype /Link /Type /Annot
 >>
 endobj
 13 0 obj
 <<
-/Author () /CreationDate (D:20190823190543+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20190823190543+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
-  /Subject (\(unspecified\)) /Title (Information Security for Every Technology User) /Trapped /False
+/Annots [ 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R ] /Contents 30 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 27 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
 >>
 endobj
 14 0 obj
 <<
-/Count 11 /First 15 0 R /Last 24 0 R /Type /Outlines
+/Outlines 16 0 R /PageLabels 31 0 R /PageMode /UseNone /Pages 27 0 R /Type /Catalog
 >>
 endobj
 15 0 obj
 <<
-/Dest [ 4 0 R /XYZ 62.69291 699.0236 0 ] /Next 16 0 R /Parent 14 0 R /Title (Course Objectives)
+/Author () /CreationDate (D:20190823190932+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20190823190932+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Information Security for Every Technology User) /Trapped /False
 >>
 endobj
 16 0 obj
 <<
-/Dest [ 4 0 R /XYZ 62.69291 342.0236 0 ] /Next 17 0 R /Parent 14 0 R /Prev 15 0 R /Title (Modules)
+/Count 11 /First 17 0 R /Last 26 0 R /Type /Outlines
 >>
 endobj
 17 0 obj
 <<
-/Count 6 /Dest [ 5 0 R /XYZ 62.69291 561.0236 0 ] /First 18 0 R /Last 23 0 R /Next 24 0 R /Parent 14 0 R 
-  /Prev 16 0 R /Title (Case Studies)
+/Dest [ 5 0 R /XYZ 62.69291 699.0236 0 ] /Next 18 0 R /Parent 16 0 R /Title (Course Objectives)
 >>
 endobj
 18 0 obj
 <<
-/Dest [ 5 0 R /XYZ 62.69291 390.0236 0 ] /Next 19 0 R /Parent 17 0 R /Title (Allentown, PA)
+/Dest [ 5 0 R /XYZ 62.69291 342.0236 0 ] /Next 19 0 R /Parent 16 0 R /Prev 17 0 R /Title (Modules)
 >>
 endobj
 19 0 obj
 <<
-/Dest [ 5 0 R /XYZ 62.69291 294.0236 0 ] /Next 20 0 R /Parent 17 0 R /Prev 18 0 R /Title (Kaufman, TX)
+/Count 6 /Dest [ 6 0 R /XYZ 62.69291 561.0236 0 ] /First 20 0 R /Last 25 0 R /Next 26 0 R /Parent 16 0 R 
+  /Prev 18 0 R /Title (Case Studies)
 >>
 endobj
 20 0 obj
 <<
-/Dest [ 5 0 R /XYZ 62.69291 222.0236 0 ] /Next 21 0 R /Parent 17 0 R /Prev 19 0 R /Title (Wilmer, TX)
+/Dest [ 6 0 R /XYZ 62.69291 390.0236 0 ] /Next 21 0 R /Parent 19 0 R /Title (Allentown, PA)
 >>
 endobj
 21 0 obj
 <<
-/Dest [ 5 0 R /XYZ 62.69291 162.0236 0 ] /Next 22 0 R /Parent 17 0 R /Prev 20 0 R /Title (Lake City, FL)
+/Dest [ 6 0 R /XYZ 62.69291 294.0236 0 ] /Next 22 0 R /Parent 19 0 R /Prev 20 0 R /Title (Kaufman, TX)
 >>
 endobj
 22 0 obj
 <<
-/Dest [ 5 0 R /XYZ 62.69291 114.0236 0 ] /Next 23 0 R /Parent 17 0 R /Prev 21 0 R /Title (Baltimore, MD)
+/Dest [ 6 0 R /XYZ 62.69291 222.0236 0 ] /Next 23 0 R /Parent 19 0 R /Prev 21 0 R /Title (Wilmer, TX)
 >>
 endobj
 23 0 obj
 <<
-/Dest [ 11 0 R /XYZ 62.69291 765.0236 0 ] /Parent 17 0 R /Prev 22 0 R /Title (Atlanta, GA)
+/Dest [ 6 0 R /XYZ 62.69291 162.0236 0 ] /Next 24 0 R /Parent 19 0 R /Prev 22 0 R /Title (Lake City, FL)
 >>
 endobj
 24 0 obj
 <<
-/Dest [ 11 0 R /XYZ 62.69291 717.0236 0 ] /Parent 14 0 R /Prev 17 0 R /Title (References)
+/Dest [ 6 0 R /XYZ 62.69291 114.0236 0 ] /Next 25 0 R /Parent 19 0 R /Prev 23 0 R /Title (Baltimore, MD)
 >>
 endobj
 25 0 obj
 <<
-/Count 3 /Kids [ 4 0 R 5 0 R 11 0 R ] /Type /Pages
+/Dest [ 13 0 R /XYZ 62.69291 765.0236 0 ] /Parent 19 0 R /Prev 24 0 R /Title (Atlanta, GA)
 >>
 endobj
 26 0 obj
 <<
-/Length 8137
+/Dest [ 13 0 R /XYZ 62.69291 717.0236 0 ] /Parent 16 0 R /Prev 19 0 R /Title (References)
+>>
+endobj
+27 0 obj
+<<
+/Count 3 /Kids [ 5 0 R 6 0 R 13 0 R ] /Type /Pages
+>>
+endobj
+28 0 obj
+<<
+/Length 8167
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -617,8 +627,7 @@ Q
 q
 1 0 0 1 20 0 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL 1.225984 Tw (City of 121K. An employee took a laptop while traveling. While off the network, it missed) Tj T* 0 Tw .054269 Tw (crucial software updates. He clicked a link in a "phishing" email which installed the malware.) Tj T* 0 Tw .891984 Tw (On his return to the office, the malware sprea rapidly. No ransom was demanded, but the) Tj T* 0 Tw 2.104269 Tw (attack cost about $1 million to clean up and the city also adopted additional defensive) Tj T* 0 Tw .755697 Tw (measures that cost an additional $420,000 per year. The attack was traced to attackers in) Tj T* 0 Tw (the Ukraine.[#NYT]_) Tj T* ET
+BT 1 0 0 1 0 62 Tm 1.225984 Tw 12 TL /F1 10 Tf 0 0 0 rg (City of 121K. An employee took a laptop while traveling. While off the network, it missed) Tj T* 0 Tw .054269 Tw (crucial software updates. He clicked a link in a "phishing" email which installed the malware.) Tj T* 0 Tw .891984 Tw (On his return to the office, the malware sprea rapidly. No ransom was demanded, but the) Tj T* 0 Tw 2.104269 Tw (attack cost about $1 million to clean up and the city also adopted additional defensive) Tj T* 0 Tw .755697 Tw (measures that cost an additional $420,000 per year. The attack was traced to attackers in) Tj T* 0 Tw (the Ukraine. ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (1) Tj T* ET
 Q
 Q
 q
@@ -691,9 +700,9 @@ Q
  
 endstream
 endobj
-27 0 obj
+29 0 obj
 <<
-/Length 5389
+/Length 5405
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -833,8 +842,7 @@ Q
 q
 1 0 0 1 62.69291 402.0236 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 122 Tm /F1 10 Tf 12 TL .864985 Tw (Aug 18, 2019: 20+ Texas towns targeted in ransomware attacks. July 25, 2019: City Power, the electric) Tj T* 0 Tw 1.557674 Tw (utility for Johannesburg, South Africa, discloses ransomware attack. June 26, 2019: Lake City, Florida) Tj T* 0 Tw 1.943059 Tw (agrees to pay ransomware. June 20, 2019: Riviera Beach, Florida, discloses ransomware attack and) Tj T* 0 Tw 2.242126 Tw (payment. May 7, 2019: City of Baltimore hit with ransomware attack. April 2019: Cleveland Hopkins) Tj T* 0 Tw .316136 Tw (International Airport suffered a ransomware attack. April 2019: Augusta, Maine, suffered a highly targeted) Tj T* 0 Tw .341751 Tw (malware attack that froze the city\222s entire network and forced the city center to close. April 2019: Hackers) Tj T* 0 Tw 3.589269 Tw (stole roughly $498,000 from the city of Tallahassee. March 2019: Albany, New York, suffered a) Tj T* 0 Tw .76248 Tw (ransomware attack. March 2019: Jackson County, Georgia officials paid cybercriminals $400,000 after a) Tj T* 0 Tw 1.47229 Tw (cyberattack shut down the county\222s computer systems. March 2018: Atlanta, Georgia suffered a major) Tj T* 0 Tw .194976 Tw (ransomware attack. February 2018: Colorado Department of Transportation \(CDOT\) employee computers) Tj T* 0 Tw (temporarily were shut down due to a SamSam ransomware virus cyberattack.[x]_) Tj T* ET
+BT 1 0 0 1 0 122 Tm .864985 Tw 12 TL /F1 10 Tf 0 0 0 rg (Aug 18, 2019: 20+ Texas towns targeted in ransomware attacks. July 25, 2019: City Power, the electric) Tj T* 0 Tw 1.557674 Tw (utility for Johannesburg, South Africa, discloses ransomware attack. June 26, 2019: Lake City, Florida) Tj T* 0 Tw 1.943059 Tw (agrees to pay ransomware. June 20, 2019: Riviera Beach, Florida, discloses ransomware attack and) Tj T* 0 Tw 2.242126 Tw (payment. May 7, 2019: City of Baltimore hit with ransomware attack. April 2019: Cleveland Hopkins) Tj T* 0 Tw .316136 Tw (International Airport suffered a ransomware attack. April 2019: Augusta, Maine, suffered a highly targeted) Tj T* 0 Tw .341751 Tw (malware attack that froze the city\222s entire network and forced the city center to close. April 2019: Hackers) Tj T* 0 Tw 3.589269 Tw (stole roughly $498,000 from the city of Tallahassee. March 2019: Albany, New York, suffered a) Tj T* 0 Tw .76248 Tw (ransomware attack. March 2019: Jackson County, Georgia officials paid cybercriminals $400,000 after a) Tj T* 0 Tw 1.47229 Tw (cyberattack shut down the county\222s computer systems. March 2018: Atlanta, Georgia suffered a major) Tj T* 0 Tw .194976 Tw (ransomware attack. February 2018: Colorado Department of Transportation \(CDOT\) employee computers) Tj T* 0 Tw (temporarily were shut down due to a SamSam ransomware virus cyberattack. ) Tj 1 0 0 rg ([#]_) Tj T* ET
 Q
 Q
 q
@@ -905,9 +913,9 @@ Q
  
 endstream
 endobj
-28 0 obj
+30 0 obj
 <<
-/Length 2218
+/Length 2224
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -944,7 +952,7 @@ BT /F1 10 Tf 12 TL ET
 q
 1 0 0 1 6 0 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (1) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (1) Tj T* ET
 Q
 Q
 q
@@ -1045,71 +1053,73 @@ Q
  
 endstream
 endobj
-29 0 obj
+31 0 obj
 <<
-/Nums [ 0 30 0 R 1 31 0 R 2 32 0 R ]
+/Nums [ 0 32 0 R 1 33 0 R 2 34 0 R ]
 >>
 endobj
-30 0 obj
+32 0 obj
 <<
 /S /D /St 1
 >>
 endobj
-31 0 obj
+33 0 obj
 <<
 /S /D /St 2
 >>
 endobj
-32 0 obj
+34 0 obj
 <<
 /S /D /St 3
 >>
 endobj
 xref
-0 33
+0 35
 0000000000 65535 f 
 0000000073 00000 n 
 0000000114 00000 n 
 0000000221 00000 n 
 0000000333 00000 n 
-0000000538 00000 n 
-0000000743 00000 n 
-0000000964 00000 n 
-0000001227 00000 n 
-0000001459 00000 n 
-0000001695 00000 n 
-0000001941 00000 n 
-0000002190 00000 n 
+0000000501 00000 n 
+0000000724 00000 n 
+0000000929 00000 n 
+0000001096 00000 n 
+0000001317 00000 n 
+0000001580 00000 n 
+0000001813 00000 n 
+0000002050 00000 n 
 0000002296 00000 n 
-0000002600 00000 n 
-0000002675 00000 n 
-0000002793 00000 n 
-0000002914 00000 n 
-0000003079 00000 n 
-0000003193 00000 n 
-0000003318 00000 n 
+0000002553 00000 n 
+0000002659 00000 n 
+0000002963 00000 n 
+0000003038 00000 n 
+0000003156 00000 n 
+0000003277 00000 n 
 0000003442 00000 n 
-0000003569 00000 n 
-0000003696 00000 n 
-0000003809 00000 n 
-0000003921 00000 n 
-0000003994 00000 n 
-0000012183 00000 n 
-0000017624 00000 n 
-0000019894 00000 n 
-0000019953 00000 n 
-0000019987 00000 n 
-0000020021 00000 n 
+0000003556 00000 n 
+0000003681 00000 n 
+0000003805 00000 n 
+0000003932 00000 n 
+0000004059 00000 n 
+0000004172 00000 n 
+0000004284 00000 n 
+0000004357 00000 n 
+0000012576 00000 n 
+0000018033 00000 n 
+0000020309 00000 n 
+0000020368 00000 n 
+0000020402 00000 n 
+0000020436 00000 n 
 trailer
 <<
 /ID 
-[<16cf51bcaa50a06bcf3ba94f80df491a><16cf51bcaa50a06bcf3ba94f80df491a>]
+[<8f2226567f2afa45307d8a043650bd95><8f2226567f2afa45307d8a043650bd95>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
-/Info 13 0 R
-/Root 12 0 R
-/Size 33
+/Info 15 0 R
+/Root 14 0 R
+/Size 35
 >>
 startxref
-20055
+20470
 %%EOF
