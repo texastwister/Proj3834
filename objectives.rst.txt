@@ -48,7 +48,7 @@ Modules
     
         Allentown, PA
         
-        City of 121K. An employee took a laptop while traveling.  While off the network, it missed crucial software updates. He clicked a link in a "phishing" email which installed the malware. On his return to the office, the malware sprea rapidly. No ransom was demanded, but the attack cost about $1 million to clean up and the city also adopted additional defensive measures that cost an additional $420,000 per year.  The attack was traced to attackers in the Ukraine.[#NYT]_
+        City of 121K. An employee took a laptop while traveling.  While off the network, it missed crucial software updates. He clicked a link in a "phishing" email which installed the malware. On his return to the office, the malware sprea rapidly. No ransom was demanded, but the attack cost about $1 million to clean up and the city also adopted additional defensive measures that cost an additional $420,000 per year.  The attack was traced to attackers in the Ukraine. [#NYT]_
 
     
 2) Passwords Matter
@@ -94,7 +94,7 @@ April 2019: Hackers stole roughly $498,000 from the city of Tallahassee.
 March 2019: Albany, New York, suffered a ransomware attack.
 March 2019: Jackson County, Georgia officials paid cybercriminals $400,000 after a cyberattack shut down the county’s computer systems.
 March 2018: Atlanta, Georgia suffered a major ransomware attack.
-February 2018: Colorado Department of Transportation (CDOT) employee computers temporarily were shut down due to a SamSam ransomware virus cyberattack.[x]_
+February 2018: Colorado Department of Transportation (CDOT) employee computers temporarily were shut down due to a SamSam ransomware virus cyberattack. [#]_
 
 
 Allentown, PA
