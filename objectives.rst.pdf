@@ -42,7 +42,7 @@ endobj
 endobj
 7 0 obj
 <<
-/Author () /CreationDate (D:20190823022813+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20190823022813+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20190823023209+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20190823023209+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Information Security for Every Technology User) /Trapped /False
 >>
 endobj
@@ -58,7 +58,7 @@ endobj
 endobj
 10 0 obj
 <<
-/Dest [ 4 0 R /XYZ 62.69291 348.0236 0 ] /Parent 8 0 R /Prev 9 0 R /Title (Modules)
+/Dest [ 4 0 R /XYZ 62.69291 342.0236 0 ] /Parent 8 0 R /Prev 9 0 R /Title (Modules)
 >>
 endobj
 11 0 obj
@@ -68,7 +68,7 @@ endobj
 endobj
 12 0 obj
 <<
-/Length 5986
+/Length 7799
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -93,17 +93,34 @@ BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Course Objectives) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 660.0236 cm
+1 0 0 1 62.69291 666.0236 cm
+Q
+q
+1 0 0 1 62.69291 666.0236 cm
+Q
+q
+1 0 0 1 62.69291 576.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 75 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Learners will understand the following terms in the context of information security:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 654.0236 cm
+1 0 0 1 23 69 cm
 Q
 q
-1 0 0 1 62.69291 582.0236 cm
+1 0 0 1 23 -3 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -213,148 +230,262 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 582.0236 cm
-Q
-q
-1 0 0 1 62.69291 552.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.495318 Tw (Learners will understand the types of information that need to be safeguarded online and in computer) Tj T* 0 Tw (systems.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 522.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.54436 Tw (Learners will be aware of different forms in which that information might exist and different location in) Tj T* 0 Tw (which it might be stored.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 492.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .103828 Tw (Learners will understand how to prevent the unauthorized access to information, information systems, and) Tj T* 0 Tw (secure facilities.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 474.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Learners will understand how to prevent the unauthorized use of information and systems.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 456.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Learners will be aware of best practices for secure information storage.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 426.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.128651 Tw (Learners will be aware of best practices for securely deleting or otherwise disposing of information and) Tj T* 0 Tw (information systems.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 396.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.84284 Tw (Learners will be aware of best practices for detecting, assessing, reporting and addressing threats to) Tj T* 0 Tw (information security.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 378.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Learners will be able to describe indicators for common attacks.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 360.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Learners will understand how to respond to and report detected attacks or suspicious activity.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 327.0236 cm
-q
-BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Modules) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 315.0236 cm
-Q
-q
-1 0 0 1 62.69291 315.0236 cm
-Q
-q
-1 0 0 1 62.69291 285.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 15 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 15 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Introduction) Tj T* ET
-Q
-Q
-q
-1 0 0 1 23 9 cm
-Q
-q
-1 0 0 1 23 -3 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
-q
-1 0 0 1 20 0 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Welcome Orientation Introductory Case Study) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
 1 0 0 1 23 -3 cm
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 279.0236 cm
+1 0 0 1 62.69291 570.0236 cm
 Q
 q
-1 0 0 1 62.69291 76.86614 cm
+1 0 0 1 62.69291 546.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 187.1575 cm
+1 0 0 1 6 9 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 187.1575 cm
+1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Passwords Matter) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 3.134983 Tw (Learners will understand the types of information that need to be safeguarded online and in) Tj T* 0 Tw (computer systems.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 23 181.1575 cm
+Q
+Q
+q
+1 0 0 1 62.69291 540.0236 cm
+Q
+q
+1 0 0 1 62.69291 516.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (3.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .10686 Tw (Learners will be aware of different forms in which that information might exist and different location in) Tj T* 0 Tw (which it might be stored.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 510.0236 cm
+Q
+q
+1 0 0 1 62.69291 486.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (4.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 3.639979 Tw (Learners will understand how to prevent the unauthorized access to information, information) Tj T* 0 Tw (systems, and secure facilities.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 480.0236 cm
+Q
+q
+1 0 0 1 62.69291 468.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (5.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Learners will understand how to prevent the unauthorized use of information and systems.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 462.0236 cm
+Q
+q
+1 0 0 1 62.69291 450.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (6.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Learners will be aware of best practices for secure information storage.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 444.0236 cm
+Q
+q
+1 0 0 1 62.69291 420.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (7.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .956412 Tw (Learners will be aware of best practices for securely deleting or otherwise disposing of information) Tj T* 0 Tw (and information systems.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 414.0236 cm
+Q
+q
+1 0 0 1 62.69291 390.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (8.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .199983 Tw (Learners will be aware of best practices for detecting, assessing, reporting and addressing threats to) Tj T* 0 Tw (information security.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 384.0236 cm
+Q
+q
+1 0 0 1 62.69291 372.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (9.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Learners will be able to describe indicators for common attacks.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 366.0236 cm
+Q
+q
+1 0 0 1 62.69291 354.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL .1 0 Td (10.) Tj T* -0.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Learners will understand how to respond to and report detected attacks or suspicious activity.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 354.0236 cm
+Q
+q
+1 0 0 1 62.69291 321.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Modules) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 309.0236 cm
+Q
+q
+1 0 0 1 62.69291 309.0236 cm
+Q
+q
+1 0 0 1 62.69291 243.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Introduction) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 45 cm
 Q
 q
 1 0 0 1 23 -3 cm
@@ -362,21 +493,80 @@ q
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
 q
-1 0 0 1 20 162 cm
+1 0 0 1 20 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Welcome) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Orientation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Introductory Case Study) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 237.0236 cm
+Q
+q
+1 0 0 1 62.69291 76.86614 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 145.1575 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 145.1575 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Passwords Matter) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 139.1575 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 108 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (How Passwords are Used and Stored) Tj T* ET
 Q
 Q
 q
-1 0 0 1 20 144 cm
+1 0 0 1 20 90 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Common Attacks) Tj T* ET
 Q
 Q
 q
-1 0 0 1 20 138 cm
+1 0 0 1 20 84 cm
 Q
 q
 1 0 0 1 20 0 cm
@@ -384,59 +574,38 @@ q
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
 q
-1 0 0 1 20 126 cm
+1 0 0 1 20 72 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Brute-Force Attacks) Tj T* ET
 Q
 Q
 q
-1 0 0 1 20 108 cm
+1 0 0 1 20 54 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Dictionary Attacks) Tj T* ET
 Q
 Q
 q
-1 0 0 1 20 90 cm
+1 0 0 1 20 36 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Rainbow Tables) Tj T* ET
 Q
 Q
 q
-1 0 0 1 20 72 cm
+1 0 0 1 20 18 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Social Engineering) Tj T* ET
 Q
 Q
 q
-1 0 0 1 20 54 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Phishing) Tj T* ET
-Q
-Q
-q
-1 0 0 1 20 36 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Keylogging) Tj T* ET
-Q
-Q
-q
-1 0 0 1 20 18 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Shoulder Surfing) Tj T* ET
-Q
-Q
-q
 1 0 0 1 20 0 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Guessing) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Phishing) Tj T* ET
 Q
 Q
 q
@@ -453,15 +622,15 @@ endstream
 endobj
 13 0 obj
 <<
-/Length 900
+/Length 1174
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 735.0236 cm
+1 0 0 1 62.69291 681.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 6 17 Tm  T* ET
+BT 1 0 0 1 6 71 Tm  T* ET
 q
 1 0 0 1 23 -3 cm
 0 0 0 rg
@@ -472,6 +641,27 @@ q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 72 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Keylogging) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 54 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Shoulder Surfing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Guessing) Tj T* ET
+Q
+Q
 q
 1 0 0 1 20 18 cm
 q
@@ -502,10 +692,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 729.0236 cm
+1 0 0 1 62.69291 675.0236 cm
 Q
 q
-1 0 0 1 62.69291 717.0236 cm
+1 0 0 1 62.69291 663.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -526,7 +716,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 717.0236 cm
+1 0 0 1 62.69291 663.0236 cm
 Q
  
 endstream
@@ -561,14 +751,14 @@ xref
 0000001338 00000 n 
 0000001444 00000 n 
 0000001510 00000 n 
-0000007548 00000 n 
-0000008499 00000 n 
-0000008549 00000 n 
-0000008583 00000 n 
+0000009361 00000 n 
+0000010587 00000 n 
+0000010637 00000 n 
+0000010671 00000 n 
 trailer
 <<
 /ID 
-[<42620900e202cc45353f8eb8dfae2fc8><42620900e202cc45353f8eb8dfae2fc8>]
+[<a9f8e3077118d75eda6ed1899a3212b6><a9f8e3077118d75eda6ed1899a3212b6>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 7 0 R
@@ -576,5 +766,5 @@ trailer
 /Size 17
 >>
 startxref
-8617
+10705
 %%EOF
