@@ -1,4 +1,13 @@
+================================================
+Information Security for Every Technology User
+================================================
+
+--------------------------------------
+Created to Satisfy HB 3834 for 2020
+--------------------------------------
+
 Course Objectives
+===================
 
 Learners will understand the following terms in the context of information security:
 
@@ -25,4 +34,41 @@ Learners will be able to describe indicators for common attacks.
 
 Learners will understand how to respond to and report detected attacks or suspicious activity.
 
+
+Modules
+===========
+
+1) Introduction
+
+    Welcome
+    Orientation
+    Introductory Case Study
+    
+2) Passwords Matter
+
+    How Passwords are Used and Stored
+
+    Common Attacks
+    
+        Brute-Force Attacks
+        
+        Dictionary Attacks
+        
+        Rainbow Tables
+        
+        Social Engineering
+        
+        Phishing
+        
+        Keylogging
+        
+        Shoulder Surfing
+        
+        Guessing
+
+        Web spiders 
+        
+        Reused passwords exposed in breaches
+        
+3) Choosing and Protecting Strong Passwords
 
