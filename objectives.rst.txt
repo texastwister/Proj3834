@@ -46,6 +46,11 @@ Modules
 
     Introductory Case Study
     
+        Allentown, PA
+        
+        City of 121K. An employee took a laptop while traveling.  While off the network, it missed crucial software updates. He clicked a link in a "phishing" email which installed the malware. On his return to the office, the malware sprea rapidly. No ransom was demanded, but the attack cost about $1 million to clean up and the city also adopted additional defensive measures that cost an additional $420,000 per year.  The attack was traced to attackers in the Ukraine.[#NYT]_
+
+    
 2) Passwords Matter
 
     How Passwords are Used and Stored
@@ -73,4 +78,68 @@ Modules
         Reused passwords exposed in breaches
         
 3) Choosing and Protecting Strong Passwords
+
+
+Case Studies
+================
+
+Aug 18, 2019: 20+ Texas towns targeted in ransomware attacks.
+July 25, 2019: City Power, the electric utility for Johannesburg, South Africa, discloses ransomware attack.
+June 26, 2019: Lake City, Florida agrees to pay ransomware.
+June 20, 2019: Riviera Beach, Florida, discloses ransomware attack and payment.
+May 7, 2019: City of Baltimore hit with ransomware attack.
+April 2019: Cleveland Hopkins International Airport suffered a ransomware attack.
+April 2019: Augusta, Maine, suffered a highly targeted malware attack that froze the city’s entire network and forced the city center to close.
+April 2019: Hackers stole roughly $498,000 from the city of Tallahassee.
+March 2019: Albany, New York, suffered a ransomware attack.
+March 2019: Jackson County, Georgia officials paid cybercriminals $400,000 after a cyberattack shut down the county’s computer systems.
+March 2018: Atlanta, Georgia suffered a major ransomware attack.
+February 2018: Colorado Department of Transportation (CDOT) employee computers temporarily were shut down due to a SamSam ransomware virus cyberattack.[x]_
+
+
+Allentown, PA
+--------------
+
+City of 121K. An employee took a laptop while traveling.  While off the network, it missed crucial software updates. He clicked a link in a "phishing" email which installed the malware. On his return to the office, the malware sprea rapidly. No ransom was demanded, but the attack cost about $1 million to clean up and the city also adopted additional defensive measures that cost an additional $420,000 per year.  The attack was traced to attackers in the Ukraine.
+
+Kaufman, TX
+------------
+
+One of the municipalities targeted in the Aug, 2019 attack on 24 Texas municipalities. Most details are being concealed, but the city was forced to conduct business manually instead of with computers and cellphones were used when the phone system was disabled.
+
+Wilmer, TX
+------------
+
+One of the municipalities targeted in the Aug, 2019 attack on 24 Texas municipalities. Public library checking out books on paper. Police dept writing tickets by hand. Population 5000.
+
+Lake City, FL
+---------------
+
+Paid a ransom of about $460K, using cyberinsurance coverage.
+
+Baltimore, MD
+---------------
+
+Declined to play ransom of $76K -- incurred estimated costs of 18 million.
+
+Atlanta, GA
+--------------
+
+Declined to pay ransom of $51k -- estimated costs are $17 million[x]_.
+
+
+
+References
+==================
+
+.. [#NYT] https://www.nytimes.com/2019/08/22/us/ransomware-attacks-hacking.html
+
+.. [#MSSP] https://www.msspalert.com/cybersecurity-breaches-and-attacks/ransomware/attack-list-cities-government-agencies/
+
+.. [#JDSUPRA] https://www.jdsupra.com/legalnews/ransomware-attacks-targeting-cities-and-60139/    
+
+.. [#WIRED] https://www.wired.com/story/ransomware-hits-georgia-courts-municipal-attacks-spread/
+
+.. [#CNBC] https://www.cnbc.com/2019/08/22/texas-ransomware-attacks-tell-the-us-cybersecurity-story.html
+
 
