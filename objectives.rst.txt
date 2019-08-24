@@ -94,38 +94,43 @@ April 2019: Hackers stole roughly $498,000 from the city of Tallahassee.
 March 2019: Albany, New York, suffered a ransomware attack.
 March 2019: Jackson County, Georgia officials paid cybercriminals $400,000 after a cyberattack shut down the county’s computer systems.
 March 2018: Atlanta, Georgia suffered a major ransomware attack.
-February 2018: Colorado Department of Transportation (CDOT) employee computers temporarily were shut down due to a SamSam ransomware virus cyberattack. [#]_
+February 2018: Colorado Department of Transportation (CDOT) employee computers temporarily were shut down due to a SamSam ransomware virus cyberattack. [#MSSP]_
 
 
 Allentown, PA
 --------------
 
-City of 121K. An employee took a laptop while traveling.  While off the network, it missed crucial software updates. He clicked a link in a "phishing" email which installed the malware. On his return to the office, the malware sprea rapidly. No ransom was demanded, but the attack cost about $1 million to clean up and the city also adopted additional defensive measures that cost an additional $420,000 per year.  The attack was traced to attackers in the Ukraine.
+City of 121K. An employee took a laptop while traveling.  While off the network, it missed crucial software updates. He clicked a link in a "phishing" email which installed the malware. On his return to the office, the malware sprea rapidly. No ransom was demanded, but the attack cost about $1 million to clean up and the city also adopted additional defensive measures that cost an additional $420,000 per year.  The attack was traced to attackers in the Ukraine. [#NYT]_
 
 Kaufman, TX
 ------------
 
-One of the municipalities targeted in the Aug, 2019 attack on 24 Texas municipalities. Most details are being concealed, but the city was forced to conduct business manually instead of with computers and cellphones were used when the phone system was disabled.
+One of the municipalities targeted in the Aug, 2019 attack on 24 Texas municipalities. Most details are being concealed, but the city was forced to conduct business manually instead of with computers and cellphones were used when the phone system was disabled. [#NYT]_
 
 Wilmer, TX
 ------------
 
-One of the municipalities targeted in the Aug, 2019 attack on 24 Texas municipalities. Public library checking out books on paper. Police dept writing tickets by hand. Population 5000.
+One of the municipalities targeted in the Aug, 2019 attack on 24 Texas municipalities. Public library checking out books on paper. Police dept writing tickets by hand. Population 5000. [#NYT]_
 
 Lake City, FL
 ---------------
 
-Paid a ransom of about $460K, using cyberinsurance coverage.
+Paid a ransom of about $460K, using cyberinsurance coverage. [#NYT]_
 
 Baltimore, MD
 ---------------
 
-Declined to play ransom of $76K -- incurred estimated costs of 18 million.
+Declined to play ransom of $76K -- incurred estimated costs of 18 million. [#NYT]_
 
 Atlanta, GA
 --------------
 
-Declined to pay ransom of $51k -- estimated costs are $17 million[x]_.
+Declined to pay ransom of $51k -- estimated costs are $17 million. [#NYT]_
+
+Central Platte Natural Resources District in Nebraska
+---------------------------------------------------------
+
+Attackers disabled antivirus software, introduced ransomware that encrypted a key database, and demanded ransom. The district had protected themselves with a backup process that ran every 15 minutes and so declined to pay. [#NEB]_
 
 
 
@@ -142,4 +147,6 @@ References
 
 .. [#CNBC] https://www.cnbc.com/2019/08/22/texas-ransomware-attacks-tell-the-us-cybersecurity-story.html
 
+.. [#NEB] https://www.scmagazine.com/home/security-news/ransomware/nebraska-irrigation-district-thwarts-ransomware-attack-with-automatic-backup/
 
+.. [#SURVEY] https://www.scmagazine.com/home/security-news/ransomware/survey-48-of-organizations-attacked-by-ransomware-over-12-month-period/
